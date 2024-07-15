@@ -237,7 +237,7 @@ const contentArray = [
         description: 'Set to launch on the manufacturer\'s new A330neo aircraft in 2017, it\'s offering lots of'
     },
     {
-        imagePath: 'Assets/images/japan3.webp',
+        imagePath: 'Assets/images/japan3.jpg',
         title: 'Genderless Kei - Japan\'s Hot',
         description: 'Set to launch on the manufacturer\'s new A330neo aircraft in 2017, it\'s offering lots of'
     }
